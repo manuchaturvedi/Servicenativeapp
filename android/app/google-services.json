@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "371044345633",
+    "firebase_url": "https://mach-app-73c42.firebaseio.com",
+    "project_id": "mach-app-73c42",
+    "storage_bucket": "mach-app-73c42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371044345633:android:444fd0c8309a0a1d5dc060",
+        "android_client_info": {
+          "package_name": "com.machapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371044345633-e3lh8q5n5j9bau1s3sthgt8rsikhhgr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_JYFQAFYYdc6w9RsiruD2G_juWYiOAd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371044345633-e3lh8q5n5j9bau1s3sthgt8rsikhhgr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
